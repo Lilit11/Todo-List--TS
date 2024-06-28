@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": "f22b",
+      "text": "new task",
+      "completed": true
+    },
+    {
+      "id": "d1ce",
+      "text": "drink water",
+      "completed": true
+    },
+    {
+      "id": "2b47",
+      "text": "drink coffe",
+      "completed": false
+    }
+  ]
+}
